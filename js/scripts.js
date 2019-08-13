@@ -13,4 +13,12 @@ $(document).ready(function() {
     $("body").removeClass();
     $("body").addClass("red-background");
   });
+  $("button#light").click(function() {
+    $("body").removeClass();
+    $("body").addClass("light-background");
+  });
+  $("button#dark").click(function() {
+    $("body").removeClass();
+    $("body").addClass("dark-background");
+  });
 })

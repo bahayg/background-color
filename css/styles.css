@@ -9,3 +9,10 @@
 .red-background {
   background-color: red;
 }
+.light-background {
+  background-color: #f8f9fa;
+}
+.dark-background {
+  background-color: #343a40;
+  color: #fff;
+}
